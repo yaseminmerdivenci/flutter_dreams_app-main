@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "744650175690",
+    "project_id": "dreams-app-flutter",
+    "storage_bucket": "dreams-app-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744650175690:android:91320f6827e9b658ddf033",
+        "android_client_info": {
+          "package_name": "com.dreamapp.flutterdreamsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744650175690-jep600dct37slid6iunn3crpo2bj06ls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATD3BoqlDf_l9xYJPB2WZRtCkhgv7xGSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744650175690-jep600dct37slid6iunn3crpo2bj06ls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
